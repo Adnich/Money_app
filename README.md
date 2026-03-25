@@ -76,13 +76,10 @@ Slike aplikacije:
 
 <img width="200" height="413" alt="Screenshot 2025-08-10 203144" src="https://github.com/user-attachments/assets/2be4b971-65c6-4d77-9823-c5f75998885c" />
 
-<img width="202" height="420" alt="Screenshot 2025-08-10 225013" src="https://github.com/user-attachments/assets/1b3748a3-9caa-450a-be32-bd3a73d6fe8c" />
+<img width="200" height="413" alt="Screenshot 2025-08-10 225013" src="https://github.com/user-attachments/assets/1b3748a3-9caa-450a-be32-bd3a73d6fe8c" />
 
-<img width="332" height="722" alt="Screenshot 2025-08-05 201226" src="https://github.com/user-attachments/assets/1232cc8c-6bb2-46ad-b55b-ae991345bae0" />
-
-
+<img width="200" height="413" alt="Screenshot 2025-08-05 201226" src="https://github.com/user-attachments/assets/1232cc8c-6bb2-46ad-b55b-ae991345bae0" />
 
 
-1. Kloniraj repo:
-```bash
-git clone https://github.com/Adnich/Money_app.git
+
+
